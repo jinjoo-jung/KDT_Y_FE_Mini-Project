@@ -15,3 +15,6 @@
 
 - 결제(예약)했던 숙소 목록 조회
 ![예약 내역 목록](https://github.com/jinjoo-jung/KDT_Y_FE_Mini-Project/assets/85981963/f3708946-7677-48b8-adae-2b687f66a38e)
+
+- 장바구니에 담은 숙소 2개 결제하는 페이지
+- ![결제페이지2](https://github.com/jinjoo-jung/KDT_Y_FE_Mini-Project/assets/85981963/e3252608-ae61-484b-bc83-65385a30c99d)
